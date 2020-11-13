@@ -1,0 +1,17 @@
+1. In compile time, the program files is coverted from source code to byte code. This byte code is platform independent. 
+In run time, the program files are converted from byte code to machine code and executed by the operating system. This machine code is not platform independent.
+2.See program-files/DataType.java
+3. See program-files/Convert.java
+4. Method is an encapsulation of a series of logical statements which get executed chronologically. 
+Parameter states what datatype is expected in the method and what it gets referred to as within the method.
+Arguement is passed in at run-time from a calling function. We must pass in method statements 
+Return Type is what a method is expected to return to the calling function. If nothing is returned, return-type is void. 
+See program-files/Cat.java
+5. Encapsulation is a method of coupling the data and methods through a class. 
+Everything that a class can do must be wrapped into the methods.
+Everything that represents a class must be included in as fields.
+See program-files/Animal.java and program-files/AnimalTester.java
+6. Array is a 0-indexed series of homogenous element which are stored contiguosly in memory.
+7.See program-files/Array.java
+8. Method overloading is when there is a method with the same name, but there is a change in; the order or parameters, types of parameters or the number of parameters
+See program-files/Animal.java
